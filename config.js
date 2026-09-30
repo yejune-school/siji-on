@@ -1,0 +1,1 @@
+window.SIJI_CONFIG={SUPABASE_URL:"https://gpmnozujzhebnkpnrfik.supabase.co",SUPABASE_ANON_KEY:"PASTE_YOUR_SUPABASE_ANON_OR_PUBLISHABLE_KEY_HERE",SCHOOL_WEBSITE:"https://siji.dge.ms.kr/sijim/main.do"};
